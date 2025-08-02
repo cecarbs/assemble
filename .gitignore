@@ -1,20 +1,20 @@
 # Wails build outputs
-/build/
-/app
-*.exe
-*.app
-*.deb
-*.rpm
-*.pkg
+# /build/
+# /app
+# *.exe
+# *.app
+# *.deb
+# *.rpm
+# *.pkg
 
 # Go
-*.so
-*.dylib
-*.dll
-*.test
-*.out
-go.work
-go.work.sum
+# *.so
+# *.dylib
+# *.dll
+# *.test
+# *.out
+# go.work
+# go.work.sum
 
 # Frontend - Node.js
 node_modules/
