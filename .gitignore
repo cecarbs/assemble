@@ -6,7 +6,6 @@
 *.deb
 *.rpm
 *.pkg
-wails.json
 
 # Go
 *.so
